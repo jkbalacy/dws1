@@ -82,10 +82,10 @@ ul#navigation {
 /* -- LAYOUT -- */
 #page {
 	background-color: rgba(255,255,255,0.5);
-	max-width: 960px;
-	min-width: 720px;
+	max-width: 75%;
+	min-width: 50%;
 	height: 100%;
-	margin: 10px auto;
+	margin: 1% auto;
 	padding: 0px 20px;
 	border: 4px double #000;
 	border-radius: 5px;
@@ -96,15 +96,15 @@ ul#navigation {
 }
 
 #main {
-	width: 620px;
-	margin: 5px;
+	width: 64.5%;
+	margin: 0.5%;
 	padding: 5px;
 	float: left;
 }
 
 #gallery {
-	width: 298px;
-	margin: 10px;
+	width: 31%;
+	margin: 1%;
 	float: left;
 	text-align: center;
 	background: rgb(194,214,211); /* Old browsers */
